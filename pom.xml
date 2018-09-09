@@ -11,7 +11,7 @@
 
     <groupId>com.github.born2snipe</groupId>
     <artifactId>paging-spliterator</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
 
     <properties>
